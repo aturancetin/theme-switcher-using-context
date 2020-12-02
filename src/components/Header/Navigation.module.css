@@ -1,0 +1,12 @@
+.Navigation {
+    display: flex;
+    align-items: center;
+}
+
+.day {
+    color: white;
+}
+
+.night {
+    align-items: baseline;
+}

@@ -1,0 +1,11 @@
+.NavigationItem {
+    list-style: none;
+    margin-left: 2em;
+    margin-right: 2em;
+    
+}
+
+.NavigationItem a {
+    color: brown;
+    text-decoration: none;
+}
